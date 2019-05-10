@@ -1,0 +1,9 @@
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
+*.pyc
+__pycache__
+venv
